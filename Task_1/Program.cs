@@ -37,7 +37,7 @@
         }
         public static int InputNumber ()
         {
-            string input = string.Empty;
+            string ? input = string.Empty;
             int number = 0;
             bool flag = false;
             bool flag2 = false;
